@@ -4,39 +4,37 @@
 A dynamic and interactive Power BI dashboard designed to provide actionable insights into business sales performance. This project focuses on real-time sales tracking, buyer analysis, and trend monitoring to support strategic decision-making.
 
 🧩 Features
-Interactive Dashboard: Filter by region, time period, product category, and sales representative.
+*Interactive Dashboard: Filter by region, time period, product category, and sales representative.
 
-Key Metrics Displayed:
+*Key Metrics Displayed:
 
-YTD (Year-to-Date) Sales
+  >YTD (Year-to-Date) Sales
+  >QTD (Quarter-to-Date) Performance
+  >YTD vs. Target Comparison
 
-QTD (Quarter-to-Date) Performance
+*Top 10 Buyers: Identify the highest-value customers based on total purchase volume and frequency.
 
-YTD vs. Target Comparison
+*Category & Region Analysis: Track sales distribution across product categories and geographical regions.
 
-Top 10 Buyers: Identify the highest-value customers based on total purchase volume and frequency.
+*Trend Analysis: Monthly and quarterly trend lines to monitor growth patterns.
 
-Category & Region Analysis: Track sales distribution across product categories and geographical regions.
-
-Trend Analysis: Monthly and quarterly trend lines to monitor growth patterns.
-
-Dynamic Visuals: Cards, slicers, bar/line charts, and tables for enhanced data interaction.
+*Dynamic Visuals: Cards, slicers, bar/line charts, and tables for enhanced data interaction.
 
 🛠 Tools & Technologies
-Power BI (Desktop) – Data modeling, DAX calculations, and interactive report design
+*Power BI (Desktop) – Data modeling, DAX calculations, and interactive report design
 
-Power Query – Data cleaning and transformation
+*Power Query – Data cleaning and transformation
 
 📈 Skills Applied
-Data Cleaning & Transformation
+*Data Cleaning & Transformation
 
-DAX (Data Analysis Expressions) for Time Intelligence
+*DAX (Data Analysis Expressions) for Time Intelligence
 
-Trend & Comparative Analysis (MTD, QTD, YTD)
+*Trend & Comparative Analysis (MTD, QTD, YTD)
 
-Business Storytelling with Data
+*Business Storytelling with Data
 
-Dashboard Design Best Practices
+*Dashboard Design Best Practices
 
 DASHBOARD
 ![Amazon_sale](https://github.com/user-attachments/assets/83592146-54e6-4cbc-ba23-029143fa1d05)
