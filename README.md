@@ -8,9 +8,9 @@ A dynamic and interactive Power BI dashboard designed to provide actionable insi
 
 *Key Metrics Displayed:
 
-  >YTD (Year-to-Date) Sales
-  >QTD (Quarter-to-Date) Performance
-  >YTD vs. Target Comparison
+  YTD (Year-to-Date) Sales, 
+  QTD (Quarter-to-Date) Performance, 
+  YTD vs. Target Comparison.
 
 *Top 10 Buyers: Identify the highest-value customers based on total purchase volume and frequency.
 
